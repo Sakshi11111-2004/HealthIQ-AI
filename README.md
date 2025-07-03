@@ -22,8 +22,8 @@ DocuSense AI is an AI-powered Streamlit app that analyzes PDF medical reports (l
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/docusense-ai.git
-cd docusense-ai
+git clone (https://github.com/Sakshi11111-2004/HealthIQ-AI
+cd HealthIQ-AI
 
 # Install dependencies
 pip install -r requirements.txt
